@@ -1,0 +1,9 @@
+Package: com.palettetool.libfaketouch
+Name: libfaketouch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simulate touches Library
+Maintainer: PurplePalette
+Author: PurplePalette
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
